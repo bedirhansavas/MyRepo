@@ -15,6 +15,7 @@
 		9900C89B2BF5D4100080F447 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9900C8992BF5D4100080F447 /* LaunchScreen.storyboard */; };
 		9900C8A32BF5D56B0080F447 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9900C8A22BF5D56B0080F447 /* NetworkManager.swift */; };
 		9900C8A52BF5D66D0080F447 /* Tabbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9900C8A42BF5D66D0080F447 /* Tabbar.swift */; };
+		9900C8A92BF5D8520080F447 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9900C8A82BF5D8520080F447 /* Utils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		9900C89C2BF5D4100080F447 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9900C8A22BF5D56B0080F447 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		9900C8A42BF5D66D0080F447 /* Tabbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tabbar.swift; sourceTree = "<group>"; };
+		9900C8A82BF5D8520080F447 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9900C88E2BF5D4080080F447 /* AppDelegate.swift */,
 				9900C8902BF5D4080080F447 /* SceneDelegate.swift */,
 				9900C8922BF5D4080080F447 /* ViewController.swift */,
+				9900C8A82BF5D8520080F447 /* Utils.swift */,
 				9900C8A22BF5D56B0080F447 /* NetworkManager.swift */,
 				9900C8A42BF5D66D0080F447 /* Tabbar.swift */,
 				9900C8942BF5D4080080F447 /* Main.storyboard */,
@@ -149,6 +152,7 @@
 				9900C8A32BF5D56B0080F447 /* NetworkManager.swift in Sources */,
 				9900C88F2BF5D4080080F447 /* AppDelegate.swift in Sources */,
 				9900C8912BF5D4080080F447 /* SceneDelegate.swift in Sources */,
+				9900C8A92BF5D8520080F447 /* Utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
